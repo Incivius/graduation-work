@@ -13,6 +13,8 @@ Meu nome é Marcos Vínicius Malaquias, sou entusiasta da programação e apaixo
 
 Sou uma pessoa criativa, resiliente e analítica, escolhi a área de tecnologia devido à sua relevância na sociedade atual e também às projeções que indicam o crescimento contínuo dessa área nos próximos anos.
 
+Atualmente trabalho como desenvolvedor Full Stack na empresa Selaz, uma industria do mercado de componentes medicos. Trabalho diretamente com softwares criticos para médicos que impactam positivamente a vida de muitas pessoas.
+
 </br>
 
 # Meus Projetos
@@ -62,9 +64,9 @@ Esse projeto representou um marco no meu crescimento profissional e pessoal, des
 - **Comunicação Assertiva**:  
   - Melhorei significativamente minha habilidade de comunicar ideias e expectativas tanto com o cliente quanto com a equipe de desenvolvimento. Esse aprimoramento foi essencial para evitar ambiguidades e garantir alinhamento nas entregas.  
 - **Organização e Gestão de Prioridades**:  
-  - Estruturei o backlog e organizei as entregas de forma eficiente, o que me permitiu desenvolver um senso apurado de priorização e planejamento de tarefas.  
+  - Estruturei o backlog e organizei as entregas de forma eficiente, o que me permitiu desenvolver um senso de priorização e planejamento de tarefas.
 - **Resiliência e Adaptação**:  
-  - Enfrentei a pressão de trabalhar em um projeto inaugural com alta expectativa, aprendendo a lidar com reuniões longas e desafiadoras sem perder o foco na qualidade do trabalho entregue.  
+  - Enfrentei a pressão de trabalhar em um projeto inaugural com alta expectativa, aprendendo a lidar com reuniões longas e desafiadoras sem perder o foco na qualidade do trabalho entregue.
 - **Liderança e Proatividade**:  
   - Como P.O., assumi a liderança em vários momentos, garantindo que a equipe estivesse alinhada e motivada. Minha proatividade foi essencial para identificar problemas e propor soluções rapidamente.  
 
@@ -108,15 +110,11 @@ Durante o desenvolvimento, aperfeiçoei as seguintes competências técnicas:
 - **PostgreSQL**: Uso com ajuda;  
 - **Spring Boot**: Uso com ajuda;  
 - **Figma e Prototipação**: Nível básico;  
-- **Git**: Nível intermediário.  
+- **Git**: Nível intermediário.
 
 #### Soft Skills  
 Esse projeto foi um marco no meu desenvolvimento profissional, permitindo que eu trabalhasse diretamente com uma empresa real e em um ambiente mais desafiador. Durante o processo, desenvolvi:  
-- **Organização e Planejamento**: A utilização fiel do framework Scrum ajudou a organizar melhor as entregas e aumentou a eficiência da equipe. O planejamento detalhado de sprints me ajudou a aprimorar meu senso de prioridade e a gerenciar melhor os prazos.  
-- **Comunicação e Colaboração**: Participei ativamente das cerimônias ágeis, como planning, daily e retrospectivas, o que aprimorou minha habilidade de trabalhar em equipe e resolver problemas de forma colaborativa. Também apresentei resultados diretamente à empresa parceira, desenvolvendo habilidades interpessoais e de apresentação.  
-- **Resiliência e Adaptação**: Ao enfrentar desafios como mudanças de escopo e imprevistos técnicos, mantive a resiliência para redirecionar o trabalho da equipe, minimizando os impactos no projeto.  
-- **Feedback e Aprendizado Contínuo**: Receber feedback direto da empresa parceira foi um divisor de águas para meu desenvolvimento. Os elogios e as críticas construtivas ajudaram a aprimorar minha capacidade de análise crítica e a evoluir como profissional.  
-- **Autoconfiança e Proatividade**: Ser escolhido como um dos grupos para apresentar o projeto em uma reunião formal foi um momento significativo. Essa experiência me encorajou a assumir uma postura mais proativa e confiante em projetos futuros.  
+- **Escuta ativa**: Por não ter muita base como programador, tive que estar sempre atento a dicas, sugestões e instruções de como realizar as tarefas para o objetivo desejado, aprimorando minha escuta e relações interpessoais.
 
 ## Terceiro Semestre (2023-2) - 2RP
 O projeto desenvolvido no terceiro semestre teve como objetivo a criação de um **software web** para o controle da jornada de trabalho dos colaboradores, identificando, classificando e controlando horas extras e sobreavisos. A solução foi uma plataforma **desktop** que permitia aos colaboradores realizar apontamentos de horas extras e sobreavisos, além de realizar análises sobre o desempenho da jornada de trabalho.
@@ -167,8 +165,7 @@ Exercitei as seguintes hard skills durante esse projeto:
 
 #### Soft Skills
 Este projeto foi fundamental para o meu crescimento como profissional e como parte de uma equipe. Algumas das habilidades interpessoais que mais se destacaram foram:
-* **Trabalho em equipe** - Ajudamos uns aos outros a alcançar os objetivos de cada sprint e consolidamos práticas de gestão de projetos, como organização e comunicação interna.
-* **Planejamento e organização** - Participamos ativamente da definição das melhores práticas de desenvolvimento, o que ajudou a melhorar a dinâmica de trabalho em equipe.
+* **Trabalho em equipe** - Com um projeto mais complexo, eu tive uma oportunidade de melhorar minha habilidade de trabalho em equipe, entendendo o impacto que minhas atitudes tem no todo e como me posicionar dentro do time também. Além disso, participei ativamente da definição das melhores práticas de desenvolvimento, o que ajudou a melhorar a dinâmica de trabalho em equipe.
 * **Sinergia e colaboração** - Esse projeto me permitiu me aprofundar no papel de desenvolvedor, entrando em sinergia com a equipe e com os objetivos do projeto, garantindo entregas de qualidade dentro dos prazos estabelecidos.
 
 ## Quarto Semestre (2024-1) - Oracle
@@ -215,6 +212,6 @@ Exercitei as seguintes hard skills durante este projeto:
 
 #### Soft Skills
 Este projeto foi um marco no desenvolvimento de minhas habilidades interpessoais, especialmente por minha atuação como P.O.:
-* **Comunicação e resiliência** - Promovi alinhamentos constantes com uma equipe maior e mantive a coesão mesmo diante de desafios.
-* **Planejamento e organização** - Foquei em manter os prazos e garantir entregas consistentes, mesmo com demandas de alta complexidade.
+* **Comunicação assertiva** - Promovi alinhamentos constantes com uma equipe maior e mantive a coesão mesmo diante de desafios.
+* **Planejamento e organização** - Consegui me atender ao prazos e garantir entregas consistentes, mesmo com demandas de alta complexidade.
 * **Gestão de equipe** - Incentivei a colaboração entre os membros, assegurando que todos estivessem alinhados quanto aos objetivos do projeto e às entregas planejadas.
