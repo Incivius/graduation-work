@@ -1,12 +1,19 @@
 # Portifólio das APIs - Marcos Vinicius Malaquias
 
+
+<img align="right" width="160"  src="resource\111438883.jpeg"/>
+
 Trabalho de graduação consistindo em um portfólio de projetos desenvolvidos durante as APIs: Aprendizado por Projeto Integrador; um projeto semestral interdisciplinar que tem como objetivo propor desafios junto a instiruições parceiras, simulando as necessidades do mercado e a jornada de um desenvolvedor no mundo atual. Este trabalho é apresentado à FATEC - Faculdade de Tecnologia de São José dos Campos como a entrega final para a obtenção da graduação em Banco de Dados.
+
+</br>
 
 ## Um pouco sobre mim:
 
 Meu nome é Marcos Vínicius Malaquias, sou entusiasta da programação e apaixonado por tecnologia. Estou cursando minha primeira graduação e escolhi o curso de Banco de Dados como uma forma de ingressar no mercado de tecnologia. 
 
 Sou uma pessoa criativa, resiliente e analítica, escolhi a área de tecnologia devido à sua relevância na sociedade atual e também às projeções que indicam o crescimento contínuo dessa área nos próximos anos.
+
+</br>
 
 # Meus Projetos
 
@@ -60,8 +67,6 @@ Esse projeto representou um marco no meu crescimento profissional e pessoal, des
   - Enfrentei a pressão de trabalhar em um projeto inaugural com alta expectativa, aprendendo a lidar com reuniões longas e desafiadoras sem perder o foco na qualidade do trabalho entregue.  
 - **Liderança e Proatividade**:  
   - Como P.O., assumi a liderança em vários momentos, garantindo que a equipe estivesse alinhada e motivada. Minha proatividade foi essencial para identificar problemas e propor soluções rapidamente.  
-- **Atenção aos Detalhes**:  
-  - Fui meticuloso na análise das entregas e na validação das implementações, assegurando que o sistema atendesse a todas as exigências do cliente com precisão.  
 
 ## Segundo Semestre (2023-1)  
 
