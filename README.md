@@ -13,7 +13,7 @@ Meu nome é Marcos Vínicius Malaquias, sou entusiasta da programação e apaixo
 
 Sou uma pessoa criativa, resiliente e analítica, escolhi a área de tecnologia devido à sua relevância na sociedade atual e também às projeções que indicam o crescimento contínuo dessa área nos próximos anos.
 
-Atualmente trabalho como desenvolvedor Full Stack na empresa Selaz, uma industria do mercado de componentes medicos. Trabalho diretamente com softwares criticos para médicos que impactam positivamente a vida de muitas pessoas.
+Atualmente trabalho como desenvolvedor Full Stack na empresa Selaz, uma indústria do mercado de componentes medicos. Trabalho diretamente com softwares criticos para médicos; que impacta positivamente a vida de muitas pessoas.
 
 </br>
 
