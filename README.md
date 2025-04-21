@@ -215,3 +215,50 @@ Este projeto foi um marco no desenvolvimento de minhas habilidades interpessoais
 * **Comunicação assertiva** - Promovi alinhamentos constantes com uma equipe maior e mantive a coesão mesmo diante de desafios.
 * **Planejamento e organização** - Consegui me atender ao prazos e garantir entregas consistentes, mesmo com demandas de alta complexidade.
 * **Gestão de equipe** - Incentivei a colaboração entre os membros, assegurando que todos estivessem alinhados quanto aos objetivos do projeto e às entregas planejadas.
+
+
+## Quinto Semestre (2024-2)  
+
+O projeto do quinto semestre foi desenvolvido em parceria com a empresa **2RP** e teve como objetivo criar uma plataforma **mobile-first** para acompanhamento de métricas, indicadores de desempenho e gestão de usuários.  
+
+Buscamos integrar práticas modernas de desenvolvimento ágil, DevOps e visualização de dados em uma aplicação responsiva e escalável.  
+
+[Repositório do Projeto](https://github.com/projetoKhali/api5)  
+
+#### Tecnologias Utilizadas  
+As seguintes tecnologias foram empregadas no projeto:  
+- **Go** - Linguagem de programação utilizada no desenvolvimento do back-end;  
+- **React Native** - Framework utilizado para desenvolvimento do aplicativo mobile;  
+- **Docker** - Plataforma utilizada para containerização dos serviços;  
+- **Azure** - Plataforma de nuvem utilizada para hospedagem e CI/CD;  
+- **Grafana** - Ferramenta utilizada para visualização de métricas e monitoramento;  
+- **Victory Charts** - Biblioteca utilizada para construção dos gráficos e dashboards no front-end.  
+
+#### Contribuições Pessoais  
+Durante esse projeto, tive uma participação ativa no desenvolvimento em várias frentes, destacando-se:  
+- **Design e Planejamento de Dashboards**:  
+  - Definição dos dashboards principais e dos indicadores a serem exibidos;  
+  - Criação de protótipos visuais focados em usabilidade mobile-first.  
+- **Desenvolvimento Front-End**:  
+  - Criação de componentes gráficos dinâmicos utilizando Victory Charts;  
+  - Implementação de filtros de dados para segmentação inteligente das informações.  
+- **Desenvolvimento Back-End**:  
+  - Desenvolvimento de endpoints RESTful para listagem de filtros dinâmicos;  
+  - Implementação dos endpoints de gestão de usuários (listagem, busca, atualização e deleção).  
+- **DevOps e Documentação**:  
+  - Estruturação da documentação com foco em rastreabilidade de requisitos;  
+  - Participação na configuração de pipelines de integração e entrega contínua (CI/CD) no Azure.  
+
+#### Hard Skills  
+Durante o desenvolvimento, aperfeiçoei as seguintes competências técnicas:  
+- **Go**: Primeira experiência prática com a linguagem, explorando alta performance e concorrência;  
+- **React Native**: Primeira experiência prática em desenvolvimento mobile;  
+- **Docker**: Uso com autonomia para containerização da aplicação;  
+- **Azure**: Uso com ajuda para deploy e integração contínua;  
+- **Victory Charts e Grafana**: Uso para construção de dashboards dinâmicos e monitoramento de métricas.  
+
+#### Soft Skills  
+Esse projeto foi um grande avanço no meu desenvolvimento comportamental, permitindo que eu aprimorasse:  
+- **Organização e Planejamento Estratégico**: Consegui transformar as tarefas em processos e assim separar melhor meu tempo, de forma que passei menos estresse e tive mais tempo de sobra;  
+
+
