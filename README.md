@@ -219,9 +219,9 @@ Este projeto foi um marco no desenvolvimento de minhas habilidades interpessoais
 
 ## Quinto Semestre (2024-2)  
 
-O projeto do quinto semestre foi desenvolvido em parceria com a empresa **2RP** e teve como objetivo criar uma plataforma **mobile-first** para acompanhamento de métricas, indicadores de desempenho e gestão de usuários.  
+O projeto do quinto semestre foi desenvolvido em parceria com a empresa **PRO4TECH**, com o desafio de criar uma aplicação que gerasse insights e otimizasse o processo de contratação de colaboradores. O objetivo era desenvolver uma plataforma **mobile-first** para o acompanhamento de métricas e indicadores de desempenho, como: número de candidatos por vaga, candidatos entrevistados, candidatos contratados, vagas em aberto, entre outros. Além disso, foram requeridas funcionalidades para gestão de usuários, geração de relatórios detalhados e dashboards. Tudo isso utilizando um modelo de data warehouse e um sistema de ETL para a inserção de dados nesse ambiente.
 
-Buscamos integrar práticas modernas de desenvolvimento ágil, DevOps e visualização de dados em uma aplicação responsiva e escalável.  
+A solução proposta foi uma aplicação web mobile-first, desenvolvida com React Native e Golang, oferecendo uma ampla gama de dashboards e visualizações ideais para a análise de dados. Foi realizada a idealização e construção de um banco data warehouse para o armazenamento otimizado dos dados analíticos, além da implementação de uma rotina de ETL para atualização da base de dados. Também buscamos integrar práticas modernas de desenvolvimento ágil, DevOps e visualização de dados em uma aplicação responsiva e escalável.
 
 [Repositório do Projeto](https://github.com/projetoKhali/api5)  
 
