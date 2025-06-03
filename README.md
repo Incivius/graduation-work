@@ -262,3 +262,90 @@ Esse projeto foi um grande avanço no meu desenvolvimento comportamental, permit
 - **Organização e Planejamento Estratégico**: Consegui transformar as tarefas em processos e assim separar melhor meu tempo, de forma que passei menos estresse e tive mais tempo de sobra;  
 
 
+Claro! Aqui está uma versão revisada e aprimorada da sua descrição de projeto, com foco na coesão, clareza e correção técnica e gramatical. Mantive a estrutura do template, ajustando as frases para maior fluidez, formalidade e precisão:
+
+
+## Sexto Semestre (2024-2)
+
+No sexto semestre, tivemos como empresa parceira a **Kersys**, que nos propôs um desafio inovador: o desenvolvimento de uma plataforma de análise de dados com geração de insights, integrada a uma Inteligência Artificial desenvolvida especialmente para esse fim. O projeto exigia a utilização de, pelo menos, dois bancos de dados — um relacional e outro não relacional — e total conformidade com a Lei Geral de Proteção de Dados (LGPD).
+
+Como solução, desenvolvemos uma aplicação web com um dashboard interativo, oferecendo diversas visualizações e gráficos para extração de insights e monitoramento de dados. Também implementamos funcionalidades específicas para projeção de dados e previsão com base em cenários condicionais. Entre os recursos adicionais, destacam-se: extração de relatórios, gestão de usuários, controle de dados pessoais, alimentação da base de dados, rotinas de backup e restauração, sistema de notificações por e-mail e um módulo dedicado à autenticação de usuários, criptografia e termos de consentimento.
+
+Essas funcionalidades foram distribuídas em cinco módulos distintos:
+
+* Um módulo de autenticação e gestão de usuários;
+* Um módulo de machine learning;
+* Um módulo de notificações;
+* Um módulo de integração entre os demais;
+* Um módulo web, responsável pelas interfaces do sistema.
+
+[Repositório do Projeto](https://github.com/projetoKhali/api6)
+
+### Tecnologias Utilizadas
+
+As principais tecnologias utilizadas no projeto foram:
+
+* **Python** – Linguagem principal para o desenvolvimento do back-end;
+* **React** – Utilizado para construção da interface web;
+* **Docker** – Para containerização e gerenciamento dos bancos de dados;
+* **Flask** – Framework Python para criação de APIs RESTful;
+* **Kaggle** – Plataforma utilizada no treinamento dos modelos de IA;
+* **Rust** – Linguagem aplicada no módulo de gestão de usuários.
+
+### Contribuições Pessoais
+
+Atuei no projeto como **Scrum Master** e desenvolvedor, contribuindo em diversas frentes:
+
+* **Planejamento e UX/UI**:
+
+  * Definição dos principais dashboards e indicadores;
+  * Criação de protótipos com foco em usabilidade e design mobile-first.
+
+* **Front-End**:
+
+  * Desenvolvimento de componentes gráficos dinâmicos utilizando **ECharts**;
+  * Implementação de filtros inteligentes para segmentação de dados;
+  * Criação das telas de extração de relatórios, projeção e previsão condicionada.
+
+* **Back-End**:
+
+  * Criação de todos os endpoints RESTful para os dashboards e suas funcionalidades;
+  * Desenvolvimento e treinamento dos modelos de IA para projeção e previsão;
+  * Implementação dos serviços de backend para extração de relatórios;
+  * Criação de endpoints dinâmicos para filtros e termos de consentimento.
+
+* **DevOps e Documentação**:
+
+  * Estruturação da documentação técnica com foco na descrição dos modelos de IA e suas capacidades.
+
+---
+
+### Hard Skills Desenvolvidas
+
+Durante o projeto, aprofundei conhecimentos técnicos nas seguintes áreas:
+
+* **Machine Learning** – Primeira experiência prática com aprendizado de máquina, permitindo compreender seus desafios e aplicações;
+* **Kaggle** – Utilização autônoma para treinamento de modelos com recursos computacionais limitados;
+* **Docker** – Containerização eficaz dos bancos de dados e serviços;
+* **MongoDB** – Armazenamento de dados não estruturados;
+* **PostgreSQL** – Armazenamento de dados estruturados;
+* **ECharts** – Biblioteca para construção de gráficos interativos e personalizáveis no dashboard;
+* **React** – Desenvolvimento de interfaces web com componentes reutilizáveis;
+* **Flask** – Criação de APIs RESTful com autonomia.
+
+---
+
+### Soft Skills
+
+Esse foi, sem dúvida, o projeto mais desafiador do curso. Tive a oportunidade de desenvolver significativamente minhas habilidades interpessoais, como:
+ 
+Esse projeto foi, sem dúvida, o mais difícil, e me permitiu aperfeiçoar diversos pontos.
+Trabalhei intensamente nesta sprint aspectos como liderança, organização, poder de argumentação e resiliência.
+
+Naquela altura do curso, minha equipe havia sido reduzida a apenas quatro pessoas e, devido a diversos fatores, a demanda acadêmica e externa estava muito alta, o que resultou em baixa participação e pouca proatividade da equipe.
+
+Como Scrum Master, precisei entender com clareza o que cada membro realmente conseguiria entregar e como eu poderia facilitar a geração de valor de cada um.
+
+Tive diversas discussões, principalmente com o colega Paulo, por conta da complexidade de suas entregas. Muitas vezes ele não conseguia testá-las adequadamente, o que gerava bugs, retrabalho e inconsistências no sistema. Apesar disso, houve progresso ao longo do projeto.
+
+O que realmente contribuiu para o sucesso final foi a união com os demais membros, reforçando o compromisso com o escopo e o prazo. Com isso, conseguimos focar na entrega de toda a parte funcional do sistema e, posteriormente, no refinamento contínuo da solução.
