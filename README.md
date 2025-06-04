@@ -116,6 +116,8 @@ Durante o desenvolvimento, aperfeiçoei as seguintes competências técnicas:
 Esse projeto foi um marco no meu desenvolvimento profissional, permitindo que eu trabalhasse diretamente com uma empresa real e em um ambiente mais desafiador. Durante o processo, desenvolvi:  
 - **Escuta ativa**: Por não ter muita base como programador, tive que estar sempre atento a dicas, sugestões e instruções de como realizar as tarefas para o objetivo desejado, aprimorando minha escuta e relações interpessoais.
 
+![Frame 7 (2)](https://github.com/user-attachments/assets/625ab488-c585-42f1-bc18-8424cc949283)
+
 ## Terceiro Semestre (2023-2) - 2RP
 O projeto desenvolvido no terceiro semestre teve como objetivo a criação de um **software web** para o controle da jornada de trabalho dos colaboradores, identificando, classificando e controlando horas extras e sobreavisos. A solução foi uma plataforma **desktop** que permitia aos colaboradores realizar apontamentos de horas extras e sobreavisos, além de realizar análises sobre o desempenho da jornada de trabalho.
 
@@ -168,7 +170,7 @@ Este projeto foi fundamental para o meu crescimento como profissional e como par
 * **Trabalho em equipe** - Com um projeto mais complexo, eu tive uma oportunidade de melhorar minha habilidade de trabalho em equipe, entendendo o impacto que minhas atitudes tem no todo e como me posicionar dentro do time também. Além disso, participei ativamente da definição das melhores práticas de desenvolvimento, o que ajudou a melhorar a dinâmica de trabalho em equipe.
 * **Sinergia e colaboração** - Esse projeto me permitiu me aprofundar no papel de desenvolvedor, entrando em sinergia com a equipe e com os objetivos do projeto, garantindo entregas de qualidade dentro dos prazos estabelecidos.
 
-![Menu tela parceiro](https://github.com/user-attachments/assets/a6e07d78-3970-4352-b4f9-bc35eaa85768)
+![Menu tela parceiro (1)](https://github.com/user-attachments/assets/254b8f67-4dad-4416-91e2-9b0d5b2e9ad4)
 
 ## Quarto Semestre (2024-1) - Oracle
 No quarto semestre, o projeto foi desenvolvido para atender à necessidade de um **software web** que permitisse o acompanhamento de métricas sobre parceiros, expertises e certificações. A solução foi uma plataforma web que oferecia **dashboards dinâmicos** para a visualização dessas métricas, além da possibilidade de **extração de relatórios detalhados**.
