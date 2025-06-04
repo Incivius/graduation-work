@@ -211,102 +211,14 @@ Exercitei as seguintes hard skills durante este projeto:
 * **Postman** - Uso com autonomia para testar e validar as APIs.
 
 #### Soft Skills
-Este projeto foi um marco no desenvolvimento de minhas habilidades interpessoais, especialmente por minha atuação como P.O.:
-* **Comunicação assertiva** - Promovi alinhamentos constantes com uma equipe maior e mantive a coesão mesmo diante de desafios.
-* **Planejamento e organização** - Consegui me atender ao prazos e garantir entregas consistentes, mesmo com demandas de alta complexidade.
-* **Gestão de equipe** - Incentivei a colaboração entre os membros, assegurando que todos estivessem alinhados quanto aos objetivos do projeto e às entregas planejadas.
+- **Liderança, Planejamento e Comunicação Estratégica** – Atuei garantindo o alinhamento da equipe com os requisitos do projeto, promovendo uma comunicação constante e assertiva. Ao mesmo tempo, negociei com o cliente ajustes no escopo para tornar as entregas mais realistas, equilibrando a geração de valor com a capacidade real da equipe. Isso permitiu manter a qualidade das entregas dentro do prazo, sem sobrecarga dos membros do time.
 
-
-## Sexto Semestre (2024-2)
-
-No sexto semestre, tivemos como empresa parceira a **Kersys**, que nos propôs um desafio inovador: o desenvolvimento de uma plataforma de análise de dados com geração de insights, integrada a uma Inteligência Artificial desenvolvida especialmente para esse fim. O projeto exigia a utilização de, pelo menos, dois bancos de dados — um relacional e outro não relacional — e total conformidade com a Lei Geral de Proteção de Dados (LGPD).
-
-Como solução, desenvolvemos uma aplicação web com um dashboard interativo, oferecendo diversas visualizações e gráficos para extração de insights e monitoramento de dados. Também implementamos funcionalidades específicas para projeção de dados e previsão com base em cenários condicionais. Entre os recursos adicionais, destacam-se: extração de relatórios, gestão de usuários, controle de dados pessoais, alimentação da base de dados, rotinas de backup e restauração, sistema de notificações por e-mail e um módulo dedicado à autenticação de usuários, criptografia e termos de consentimento.
-
-Essas funcionalidades foram distribuídas em cinco módulos distintos:
-
-* Um módulo de autenticação e gestão de usuários;
-* Um módulo de machine learning;
-* Um módulo de notificações;
-* Um módulo de integração entre os demais;
-* Um módulo web, responsável pelas interfaces do sistema.
-
-[Repositório do Projeto](https://github.com/projetoKhali/api6)
-
-### Tecnologias Utilizadas
-
-As principais tecnologias utilizadas no projeto foram:
-
-* **Python** – Linguagem principal para o desenvolvimento do back-end;
-* **React** – Utilizado para construção da interface web;
-* **Docker** – Para containerização e gerenciamento dos bancos de dados;
-* **Flask** – Framework Python para criação de APIs RESTful;
-* **Kaggle** – Plataforma utilizada no treinamento dos modelos de IA;
-* **Rust** – Linguagem aplicada no módulo de gestão de usuários.
-
-### Contribuições Pessoais
-
-Atuei no projeto como **Scrum Master** e desenvolvedor, contribuindo em diversas frentes:
-
-* **Planejamento e UX/UI**:
-
-  * Definição dos principais dashboards e indicadores;
-  * Criação de protótipos com foco em usabilidade e design mobile-first.
-
-* **Front-End**:
-
-  * Desenvolvimento de componentes gráficos dinâmicos utilizando **ECharts**;
-  * Implementação de filtros inteligentes para segmentação de dados;
-  * Criação das telas de extração de relatórios, projeção e previsão condicionada.
-
-* **Back-End**:
-
-  * Criação de todos os endpoints RESTful para os dashboards e suas funcionalidades;
-  * Desenvolvimento e treinamento dos modelos de IA para projeção e previsão;
-  * Implementação dos serviços de backend para extração de relatórios;
-  * Criação de endpoints dinâmicos para filtros e termos de consentimento.
-
-* **DevOps e Documentação**:
-
-  * Estruturação da documentação técnica com foco na descrição dos modelos de IA e suas capacidades.
-
----
-
-### Hard Skills Desenvolvidas
-
-Durante o projeto, aprofundei conhecimentos técnicos nas seguintes áreas:
-
-* **Machine Learning** – Primeira experiência prática com aprendizado de máquina, permitindo compreender seus desafios e aplicações;
-* **Kaggle** – Utilização autônoma para treinamento de modelos com recursos computacionais limitados;
-* **Docker** – Containerização eficaz dos bancos de dados e serviços;
-* **MongoDB** – Armazenamento de dados não estruturados;
-* **PostgreSQL** – Armazenamento de dados estruturados;
-* **ECharts** – Biblioteca para construção de gráficos interativos e personalizáveis no dashboard;
-* **React** – Desenvolvimento de interfaces web com componentes reutilizáveis;
-* **Flask** – Criação de APIs RESTful com autonomia.
-
----
-
-### Soft Skills
-
-Esse foi, sem dúvida, o projeto mais desafiador do curso. Tive a oportunidade de desenvolver significativamente minhas habilidades interpessoais, como:
- 
-Esse projeto foi, sem dúvida, o mais difícil, e me permitiu aperfeiçoar diversos pontos.
-Trabalhei intensamente nesta sprint aspectos como liderança, organização, poder de argumentação e resiliência.
-
-Naquela altura do curso, minha equipe havia sido reduzida a apenas quatro pessoas e, devido a diversos fatores, a demanda acadêmica e externa estava muito alta, o que resultou em baixa participação e pouca proatividade da equipe.
-
-Como Scrum Master, precisei entender com clareza o que cada membro realmente conseguiria entregar e como eu poderia facilitar a geração de valor de cada um.
-
-Tive diversas discussões, principalmente com o colega Paulo, por conta da complexidade de suas entregas. Muitas vezes ele não conseguia testá-las adequadamente, o que gerava bugs, retrabalho e inconsistências no sistema. Apesar disso, houve progresso ao longo do projeto.
-
-O que realmente contribuiu para o sucesso final foi a união com os demais membros, reforçando o compromisso com o escopo e o prazo. Com isso, conseguimos focar na entrega de toda a parte funcional do sistema e, posteriormente, no refinamento contínuo da solução.
 
 ![Frame 6](https://github.com/user-attachments/assets/dfc7a2e6-6300-4a66-98f3-b9d6ba21b919)
 
-## Quinto Semestre (2024-2)  
+## Quinto Semestre (2024-2) - PRO4TECH
 
-O projeto do quinto semestre foi desenvolvido em parceria com a empresa **PRO4TECH**, com o desafio de criar uma aplicação que gerasse insights e otimizasse o processo de contratação de colaboradores. O objetivo era desenvolver uma plataforma **mobile-first** para o acompanhamento de métricas e indicadores de desempenho, como: número de candidatos por vaga, candidatos entrevistados, candidatos contratados, vagas em aberto, entre outros. Além disso, foram requeridas funcionalidades para gestão de usuários, geração de relatórios detalhados e dashboards. Tudo isso utilizando um modelo de data warehouse e um sistema de ETL para a inserção de dados nesse ambiente.
+O projeto do quinto semestre foi desenvolvido em parceria com a empresa **PRO4TECH**, com o desafio de criar uma aplicação que gerasse insights e otimizasse o processo de contratação de colaboradores. O objetivo era desenvolver uma plataforma **mobile-first** para o acompanhamento de métricas e indicadores de desempenho. Além disso, foram requeridas funcionalidades para gestão de usuários, geração de relatórios detalhados e dashboards. Tudo isso utilizando um modelo de data warehouse e um sistema de ETL para a migração dos dados entre os banco de dados.
 
 A solução proposta foi uma aplicação web mobile-first, desenvolvida com React Native e Golang, oferecendo uma ampla gama de dashboards e visualizações ideais para a análise de dados. Foi realizada a idealização e construção de um banco data warehouse para o armazenamento otimizado dos dados analíticos, além da implementação de uma rotina de ETL para atualização da base de dados. Também buscamos integrar práticas modernas de desenvolvimento ágil, DevOps e visualização de dados em uma aplicação responsiva e escalável.
 
@@ -314,12 +226,12 @@ A solução proposta foi uma aplicação web mobile-first, desenvolvida com Reac
 
 #### Tecnologias Utilizadas  
 As seguintes tecnologias foram empregadas no projeto:  
-- **Go** - Linguagem de programação utilizada no desenvolvimento do back-end;  
-- **React Native** - Framework utilizado para desenvolvimento do aplicativo mobile;  
-- **Docker** - Plataforma utilizada para containerização dos serviços;  
-- **Azure** - Plataforma de nuvem utilizada para hospedagem e CI/CD;  
-- **Grafana** - Ferramenta utilizada para visualização de métricas e monitoramento;  
-- **Victory Charts** - Biblioteca utilizada para construção dos gráficos e dashboards no front-end.  
+- **Go** - Uso com ajuda, linguagem de programação utilizada no desenvolvimento do back-end;  
+- **React Native** - Uso intermediario, framework utilizado para desenvolvimento do aplicativo mobile;  
+- **Docker** - Uso com autonomia, plataforma utilizada para containerização dos serviços;  
+- **Azure** - Uso com ajuda, plataforma de nuvem utilizada para hospedagem e CI/CD;  
+- **Grafana** - Uso com ajuda, ferramenta utilizada para visualização de métricas e monitoramento;  
+- **Victory Charts** - Uso com autonomia, biblioteca utilizada para construção dos gráficos e dashboards no front-end.  
 
 #### Contribuições Pessoais  
 Durante esse projeto, tive uma participação ativa no desenvolvimento em várias frentes, destacando-se:  
@@ -345,15 +257,11 @@ Durante o desenvolvimento, aperfeiçoei as seguintes competências técnicas:
 - **Victory Charts e Grafana**: Uso para construção de dashboards dinâmicos e monitoramento de métricas.  
 
 #### Soft Skills  
-Esse projeto foi um grande avanço no meu desenvolvimento comportamental, permitindo que eu aprimorasse:  
-- **Organização e Planejamento Estratégico**: Consegui transformar as tarefas em processos e assim separar melhor meu tempo, de forma que passei menos estresse e tive mais tempo de sobra;  
-
-
-Claro! Aqui está uma versão revisada e aprimorada da sua descrição de projeto, com foco na coesão, clareza e correção técnica e gramatical. Mantive a estrutura do template, ajustando as frases para maior fluidez, formalidade e precisão:
+- **Organização e Planejamento Estratégico**: Diante da alta demanda acadêmica, foi essencial manter uma organização rigorosa para que o projeto não comprometesse meu tempo livre e lazer. Busquei transformar processos complexos em tarefas bem definidas, estabelecer uma ordem cronológica clara, definir prazos realistas e otimizar ao máximo o uso do meu tempo.
 
 ![Tela Login (1)](https://github.com/user-attachments/assets/85956040-6fa5-4b2f-a17e-2c613d7200e0)
 
-## Sexto Semestre (2024-2)
+## Sexto Semestre (2024-2) - Kersys
 
 No sexto semestre, tivemos como empresa parceira a **Kersys**, que nos propôs um desafio inovador: o desenvolvimento de uma plataforma de análise de dados com geração de insights, integrada a uma Inteligência Artificial desenvolvida especialmente para esse fim. O projeto exigia a utilização de, pelo menos, dois bancos de dados — um relacional e outro não relacional — e total conformidade com a Lei Geral de Proteção de Dados (LGPD).
 
