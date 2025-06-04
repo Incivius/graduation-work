@@ -168,6 +168,8 @@ Este projeto foi fundamental para o meu crescimento como profissional e como par
 * **Trabalho em equipe** - Com um projeto mais complexo, eu tive uma oportunidade de melhorar minha habilidade de trabalho em equipe, entendendo o impacto que minhas atitudes tem no todo e como me posicionar dentro do time também. Além disso, participei ativamente da definição das melhores práticas de desenvolvimento, o que ajudou a melhorar a dinâmica de trabalho em equipe.
 * **Sinergia e colaboração** - Esse projeto me permitiu me aprofundar no papel de desenvolvedor, entrando em sinergia com a equipe e com os objetivos do projeto, garantindo entregas de qualidade dentro dos prazos estabelecidos.
 
+![Menu tela parceiro](https://github.com/user-attachments/assets/a6e07d78-3970-4352-b4f9-bc35eaa85768)
+
 ## Quarto Semestre (2024-1) - Oracle
 No quarto semestre, o projeto foi desenvolvido para atender à necessidade de um **software web** que permitisse o acompanhamento de métricas sobre parceiros, expertises e certificações. A solução foi uma plataforma web que oferecia **dashboards dinâmicos** para a visualização dessas métricas, além da possibilidade de **extração de relatórios detalhados**.
 
