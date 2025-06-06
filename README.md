@@ -1,4 +1,4 @@
-# Portifólio das APIs - Marcos Vinicius Malaquias
+![Frame 11](https://github.com/user-attachments/assets/df0c1c48-b46a-4e81-946d-0ca3fbb61f8d)
 
 
 <img align="right" width="160"  src="resource\111438883.jpeg"/>
@@ -18,6 +18,9 @@ Atualmente trabalho como desenvolvedor Full Stack na empresa Selaz, uma indústr
 </br>
 
 # Meus Projetos
+
+![Frame 9](https://github.com/user-attachments/assets/990c2a4c-ec99-474f-9d8e-51bbaf42721f)
+
 
 ## Primeiro Semestre (2022-2)  
 
@@ -69,6 +72,8 @@ Esse projeto representou um marco no meu crescimento profissional e pessoal, des
   - Enfrentei a pressão de trabalhar em um projeto inaugural com alta expectativa, aprendendo a lidar com reuniões longas e desafiadoras sem perder o foco na qualidade do trabalho entregue.
 - **Liderança e Proatividade**:  
   - Como P.O., assumi a liderança em vários momentos, garantindo que a equipe estivesse alinhada e motivada. Minha proatividade foi essencial para identificar problemas e propor soluções rapidamente.  
+
+![Frame 10](https://github.com/user-attachments/assets/10538227-e59c-4cd9-9f02-4b59f812763f)
 
 ## Segundo Semestre (2023-1)  
 
