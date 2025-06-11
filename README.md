@@ -1,4 +1,5 @@
-![Frame 11](https://github.com/user-attachments/assets/df0c1c48-b46a-4e81-946d-0ca3fbb61f8d)
+
+![Frame 11 (2)](https://github.com/user-attachments/assets/0d6a226f-ea92-44bd-b7d2-64b208e888f0)
 
 
 <img align="right" width="160"  src="resource\111438883.jpeg"/>
@@ -24,11 +25,11 @@ Atualmente trabalho como desenvolvedor Full Stack na empresa Selaz, uma indústr
 
 ## Primeiro Semestre (2022-2)  
 
-O projeto do primeiro semestre teve como objetivo atender à demanda da empresa parceira PBLTeX, especializada em cursos e práticas de ensino aplicando PBL (Problem Based Learning). Os requisitos foram apresentados por instrutores da instituição e ajustados com o apoio da equipe de desenvolvimento.  
+O projeto desenvolvido no primeiro semestre teve como foco atender a uma demanda real da empresa parceira PBLTeX, especializada em cursos e metodologias de ensino baseadas na abordagem PBL (Problem-Based Learning). A empresa identificou a necessidade de uma solução tecnológica que facilitasse a aplicação da Avaliação 360°, além de permitir uma análise eficiente e detalhada dos dados gerados a partir dessas avaliações.
 
-O problema apresentado foi a necessidade de desenvolver uma solução computacional para aplicar a técnica de Avaliação 360°, além de possibilitar a análise detalhada dos dados obtidos pelos alunos e instrutores.  
+O principal desafio consistia em criar uma ferramenta que possibilitasse a aplicação estruturada da técnica de Avaliação 360° em ambientes educacionais, permitindo que tanto alunos quanto instrutores pudessem avaliar de forma cruzada o desempenho dentro das equipes. Além disso, era essencial que a plataforma oferecesse recursos analíticos para interpretação dos dados, geração de relatórios e extração de insights relevantes.
 
-Como solução, minha equipe desenvolveu uma plataforma desktop que realiza Avaliações 360° e fornece funcionalidades analíticas para visualização e interpretação dos dados.  
+Como solução, minha equipe desenvolveu uma plataforma desktop intuitiva e funcional, voltada para a realização de Avaliações 360° em grupos de trabalho. A aplicação permite o cadastro de participantes, aplicação das avaliações, consolidação automática dos resultados por indivíduo, equipe e grupo, bem como a geração de relatórios em diferentes formatos. A plataforma também conta com recursos de visualização de dados que auxiliam na interpretação dos resultados, oferecendo suporte à tomada de decisão por parte de instrutores e gestores educacionais. 
 
 [Repositório do Projeto](https://github.com/projetoKhali/Khali)  
 
