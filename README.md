@@ -232,7 +232,9 @@ Exercitei as seguintes hard skills durante este projeto:
 
 ## Quinto Semestre (2024-2) - PRO4TECH
 
-O projeto do quinto semestre foi desenvolvido em parceria com a empresa **PRO4TECH**, com o desafio de criar uma aplicação que gerasse insights e otimizasse o processo de contratação de colaboradores. O objetivo era desenvolver uma plataforma **mobile-first** para o acompanhamento de métricas e indicadores de desempenho. Além disso, foram requeridas funcionalidades para gestão de usuários, geração de relatórios detalhados e dashboards. Tudo isso utilizando um modelo de data warehouse e um sistema de ETL para a migração dos dados entre os banco de dados.
+O projeto desenvolvido no quinto semestre foi realizado em parceria com a empresa PRO4TECH, que identificou a necessidade de melhorar o processo de contratação de colaboradores, por meio de uma análise mais eficiente de dados e indicadores de desempenho. A empresa enfrentava dificuldades em extrair insights relevantes a partir dos dados disponíveis, o que impactava diretamente na tomada de decisões estratégicas relacionadas a recrutamento.
+
+Diante desse cenário, o desafio proposto à equipe foi o desenvolvimento de uma plataforma mobile-first que possibilitasse o acompanhamento de métricas, a geração de relatórios detalhados, a gestão de usuários e a visualização de dados por meio de dashboards, utilizando uma arquitetura baseada em data warehouse e ETL para migração e atualização dos dados entre diferentes bancos.
 
 A solução proposta foi uma aplicação web mobile-first, desenvolvida com React Native e Golang, oferecendo uma ampla gama de dashboards e visualizações ideais para a análise de dados. Foi realizada a idealização e construção de um banco data warehouse para o armazenamento otimizado dos dados analíticos, além da implementação de uma rotina de ETL para atualização da base de dados. Também buscamos integrar práticas modernas de desenvolvimento ágil, DevOps e visualização de dados em uma aplicação responsiva e escalável.
 
@@ -277,9 +279,13 @@ Durante o desenvolvimento, aperfeiçoei as seguintes competências técnicas:
 
 ## Sexto Semestre (2024-2) - Kersys
 
-No sexto semestre, tivemos como empresa parceira a **Kersys**, que nos propôs um desafio inovador: o desenvolvimento de uma plataforma de análise de dados com geração de insights, integrada a uma Inteligência Artificial desenvolvida especialmente para esse fim. O projeto exigia a utilização de, pelo menos, dois bancos de dados — um relacional e outro não relacional — e total conformidade com a Lei Geral de Proteção de Dados (LGPD).
+O projeto desenvolvido no sexto semestre foi realizado em parceria com a empresa Kersys, que identificou a necessidade de analisar dados sobre a produção de culturas agrícolas, com foco em lotes, localização geográfica e desempenho produtivo. A empresa buscava uma solução que facilitasse a geração de insights estratégicos a partir desses dados, auxiliando na tomada de decisões relacionadas ao planejamento agrícola e à gestão territorial. Além disso, era essencial que a solução estivesse em conformidade com a Lei Geral de Proteção de Dados (LGPD), considerando o tratamento de dados sensíveis.
 
-Como solução, desenvolvemos uma aplicação web com um dashboard interativo, oferecendo diversas visualizações e gráficos para extração de insights e monitoramento de dados. Também implementamos funcionalidades específicas para projeção de dados e previsão com base em cenários condicionais. Entre os recursos adicionais, destacam-se: extração de relatórios, gestão de usuários, controle de dados pessoais, alimentação da base de dados, rotinas de backup e restauração, sistema de notificações por e-mail e um módulo dedicado à autenticação de usuários, criptografia e termos de consentimento.
+Diante desse cenário, o desafio proposto à equipe foi o desenvolvimento de uma plataforma web de análise de dados, integrada a uma Inteligência Artificial voltada à geração de previsões e insights automatizados sobre o desempenho das culturas em diferentes lotes. A arquitetura da solução exigia o uso de dois tipos de bancos de dados — um relacional e outro não relacional — e a implementação de recursos avançados de segurança, autenticação e controle de acesso.
+
+Como solução, minha equipe desenvolveu uma aplicação web com um dashboard interativo, oferecendo diversas visualizações e gráficos para o monitoramento da produção agrícola. A plataforma também incorporou funcionalidades para projeções de produtividade e previsões condicionais com base em cenários diversos, ampliando a capacidade analítica da empresa.
+
+Entre os recursos implementados, destacam-se: extração de relatórios personalizados, gestão de usuários com diferentes níveis de acesso, controle e tratamento de dados pessoais, rotinas de backup e restauração da base, notificações automáticas por e-mail, e um módulo robusto de autenticação, com criptografia de dados e gestão de termos de consentimento, garantindo segurança, usabilidade e conformidade legal.
 
 Essas funcionalidades foram distribuídas em cinco módulos distintos:
 
@@ -345,15 +351,8 @@ Durante o projeto, aprofundei conhecimentos técnicos nas seguintes áreas:
 
 ### Soft Skills
 
-Esse foi, sem dúvida, o projeto mais desafiador do curso. Tive a oportunidade de desenvolver significativamente minhas habilidades interpessoais, como:
- 
-Esse projeto foi, sem dúvida, o mais difícil, e me permitiu aperfeiçoar diversos pontos.
-Trabalhei intensamente nesta sprint aspectos como liderança, organização, poder de argumentação e resiliência.
+- **Liderança e Organização** -  Esse foi, sem dúvida, o projeto mais desafiador do curso. Naquela fase, minha equipe estava reduzida a apenas quatro pessoas, e as demandas acadêmicas e externas estavam muito altas, o que resultou em baixa participação e pouca proatividade. Como Scrum Master, precisei entender com clareza o que cada membro realmente conseguiria entregar e como poderia facilitar a contribuição de cada um para gerar valor ao projeto. Assumi a responsabilidade de manter o ritmo e organizar as tarefas para que conseguíssemos avançar.
 
-Naquela altura do curso, minha equipe havia sido reduzida a apenas quatro pessoas e, devido a diversos fatores, a demanda acadêmica e externa estava muito alta, o que resultou em baixa participação e pouca proatividade da equipe.
+- **Resiliência e Gestão de Conflitos:** - Durante o projeto, enfrentei diversos momentos difíceis, incluindo discussões recorrentes com o colega Paulo, responsável por entregas complexas que muitas vezes não eram suficientemente testadas, gerando bugs e retrabalho. Apesar da frustração, busquei agir com empatia e foco na solução, tentando mediar as situações e criar um ambiente mais colaborativo. Aos poucos, conseguimos superar as dificuldades e recuperar a estabilidade da equipe.
 
-Como Scrum Master, precisei entender com clareza o que cada membro realmente conseguiria entregar e como eu poderia facilitar a geração de valor de cada um.
-
-Tive diversas discussões, principalmente com o colega Paulo, por conta da complexidade de suas entregas. Muitas vezes ele não conseguia testá-las adequadamente, o que gerava bugs, retrabalho e inconsistências no sistema. Apesar disso, houve progresso ao longo do projeto.
-
-O que realmente contribuiu para o sucesso final foi a união com os demais membros, reforçando o compromisso com o escopo e o prazo. Com isso, conseguimos focar na entrega de toda a parte funcional do sistema e, posteriormente, no refinamento contínuo da solução.
+- **Comprometimento e Entrega de Valor:** - O que realmente fez a diferença para o sucesso final foi a união dos membros mais engajados. Reforçamos o compromisso com o escopo e os prazos, o que nos permitiu focar na entrega das funcionalidades essenciais do sistema. Conseguimos entregar o MVP no prazo e, a partir daí, realizamos o refinamento contínuo da solução até o encerramento do projeto.
