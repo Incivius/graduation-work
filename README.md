@@ -4,7 +4,7 @@
 
 <img align="right" width="160"  src="resource\111438883.jpeg"/>
 
-Trabalho de graduação consistindo em um portfólio de projetos desenvolvidos durante as APIs: Aprendizado por Projeto Integrador; um projeto semestral interdisciplinar que tem como objetivo propor desafios junto a instiruições parceiras, simulando as necessidades do mercado e a jornada de um desenvolvedor no mundo atual. Este trabalho é apresentado à FATEC - Faculdade de Tecnologia de São José dos Campos como a entrega final para a obtenção da graduação em Banco de Dados.
+Trabalho de graduação consistindo em um portfólio de projetos desenvolvidos durante as APIs: Aprendizado por Projeto Integrador; um projeto semestral interdisciplinar que tem como objetivo propor desafios junto a instituições parceiras, simulando as necessidades do mercado e a jornada de um desenvolvedor no mundo atual. Este trabalho é apresentado à FATEC - Faculdade de Tecnologia de São José dos Campos como a entrega final para a obtenção da graduação em Banco de Dados.
 
 </br>
 
@@ -66,21 +66,19 @@ Durante o desenvolvimento do projeto, adquiri e aperfeiçoei as seguintes compet
 #### Soft Skills  
 Esse projeto representou um marco no meu crescimento profissional e pessoal, desenvolvendo as seguintes competências comportamentais:  
 - **Comunicação Assertiva**:  
-  - Melhorei significativamente minha habilidade de comunicar ideias e expectativas tanto com o cliente quanto com a equipe de desenvolvimento. Esse aprimoramento foi essencial para evitar ambiguidades e garantir alinhamento nas entregas.  
-- **Organização e Gestão de Prioridades**:  
-  - Estruturei o backlog e organizei as entregas de forma eficiente, o que me permitiu desenvolver um senso de priorização e planejamento de tarefas.
-- **Resiliência e Adaptação**:  
-  - Enfrentei a pressão de trabalhar em um projeto inaugural com alta expectativa, aprendendo a lidar com reuniões longas e desafiadoras sem perder o foco na qualidade do trabalho entregue.
-- **Liderança e Proatividade**:  
-  - Como P.O., assumi a liderança em vários momentos, garantindo que a equipe estivesse alinhada e motivada. Minha proatividade foi essencial para identificar problemas e propor soluções rapidamente.  
+  - Como P.O eu estava no intermédio entre a equipe de desenvolvimento e o cliente, com isso entendi a necessidade de uma comunicação assertiva e objetiva. Ao longo do projeto eu melhorei muito a minha comunicação, percebi que eu era uma pessoa prolixa e que em muitas vezes eu até conseguia emitir a mensagem mas o excesso acaba confundindo e extendendo as coisas.
+- **Proatividade**:  
+  - Como P.O e parte da equipe de desenvolvimento, eu percebi que possuia um bom entendimento da regra de negocio e dos requisitos, muito por conta da minha proativade e atitude de deixar tudo mais visual, criando fluxo, prototipos e ilustraçãoes para facilitar o entendimento do produto, seja nas coleta de requisitos nas interações com a empresa ou na hora de explicar os objetivos e entregas durantes as conversas a equipe de desenvolvimento.
 
 ![Frame 10](https://github.com/user-attachments/assets/10538227-e59c-4cd9-9f02-4b59f812763f)
 
 ## Segundo Semestre (2023-1)  
 
-O projeto do segundo semestre foi desenvolvido em parceria com a empresa **2RP** e tinha como objetivo criar uma solução para o controle da jornada de trabalho dos colaboradores, além de identificar, classificar e controlar horas extras e sobreavisos.  
+O projeto desenvolvido no segundo semestre foi realizado em parceria com a empresa 2RP, que identificou a necessidade de otimizar o controle e o gerenciamento de horas extras e sobreavisos dos colaboradores. O objetivo principal foi criar uma solução tecnológica que facilitasse o acompanhamento da jornada de trabalho, bem como a identificação, classificação e controle dessas horas de forma eficiente.
 
-Como solução, minha equipe desenvolveu uma plataforma desktop que permite aos colaboradores realizarem apontamentos de horas extras e sobreavisos, além de análises detalhadas e visualizações sobre os dados registrados.  
+O desafio foi desenvolver uma plataforma que não apenas permitisse o registro e controle dos apontamentos, mas também fornecesse recursos avançados de análise e relatórios, além de facilitar a comunicação entre colaboradores e gestores. A solução precisava incluir controle de acesso, notificações para alertar gestores sobre pendências e aprovações, além de ferramentas para monitoramento de equipes e setores.
+
+Como solução, minha equipe desenvolveu uma plataforma desktop robusta, que oferece funcionalidades de controle de acesso, permitindo diferentes níveis de permissão para usuários e gestores. A plataforma também inclui notificações automáticas para alertar gestores sobre pendências de aprovações, além de relatórios detalhados e um dashboard interativo para o acompanhamento das horas extras e sobreavisos em nível de equipe e setor. Com isso, a aplicação proporciona uma gestão mais eficiente e transparente, apoiando a tomada de decisões e o planejamento estratégico dentro da empresa.
 
 [Repositório do Projeto](https://github.com/projetoKhali/API2Semestre)  
 
@@ -120,12 +118,16 @@ Durante o desenvolvimento, aperfeiçoei as seguintes competências técnicas:
 
 #### Soft Skills  
 Esse projeto foi um marco no meu desenvolvimento profissional, permitindo que eu trabalhasse diretamente com uma empresa real e em um ambiente mais desafiador. Durante o processo, desenvolvi:  
-- **Escuta ativa**: Por não ter muita base como programador, tive que estar sempre atento a dicas, sugestões e instruções de como realizar as tarefas para o objetivo desejado, aprimorando minha escuta e relações interpessoais.
+- **Escuta ativa**: Por ser meu primeiro projeto atuando como parte da equipe de desenvolvimento e ainda não ter uma base sólida em programação, percebi a importância de estar sempre atento às orientações, sugestões e aprendizados compartilhados pela equipe. Essa postura me ajudou a desenvolver e aprimorar minha escuta ativa, permitindo que eu absorvesse melhor as instruções e realizasse as tarefas de forma mais alinhada com os objetivos do projeto.
 
 ![Frame 7 (2)](https://github.com/user-attachments/assets/625ab488-c585-42f1-bc18-8424cc949283)
 
 ## Terceiro Semestre (2023-2) - 2RP
-O projeto desenvolvido no terceiro semestre teve como objetivo a criação de um **software web** para o controle da jornada de trabalho dos colaboradores, identificando, classificando e controlando horas extras e sobreavisos. A solução foi uma plataforma **desktop** que permitia aos colaboradores realizar apontamentos de horas extras e sobreavisos, além de realizar análises sobre o desempenho da jornada de trabalho.
+O projeto desenvolvido no terceiro semestre teve como objetivo a evolução da solução criada anteriormente, com a transição de uma aplicação desktop para uma plataforma web, tornando o sistema mais acessível, moderno e escalável. A demanda continuava sendo da empresa 2RP, que buscava uma ferramenta eficiente para o controle da jornada de trabalho dos colaboradores, com foco na identificação, classificação e gerenciamento de horas extras e sobreavisos.
+
+Diferentemente da versão anterior, a nova solução foi desenvolvida como um software web, permitindo o acesso remoto e em tempo real por colaboradores e gestores. A plataforma possibilita o registro de apontamentos de horas extras e sobreavisos, conta com controle de acesso, envio de notificações para gestores sobre pendências e aprovações, além de dashboards interativos e relatórios analíticos que facilitam o acompanhamento por equipes, setores e gestores.
+
+Essa reestruturação ampliou o alcance e a usabilidade da ferramenta, fortalecendo o papel do sistema no apoio à tomada de decisões e na gestão eficiente do tempo de trabalho dentro da organização.
 
 **[GitHub](https://github.com/projetoKhali/api3)**
 
@@ -172,14 +174,16 @@ Exercitei as seguintes hard skills durante esse projeto:
 * **PostgreSQL** - Uso com autonomia para gerenciamento de banco de dados.
 
 #### Soft Skills
-Este projeto foi fundamental para o meu crescimento como profissional e como parte de uma equipe. Algumas das habilidades interpessoais que mais se destacaram foram:
-* **Trabalho em equipe** - Com um projeto mais complexo, eu tive uma oportunidade de melhorar minha habilidade de trabalho em equipe, entendendo o impacto que minhas atitudes tem no todo e como me posicionar dentro do time também. Além disso, participei ativamente da definição das melhores práticas de desenvolvimento, o que ajudou a melhorar a dinâmica de trabalho em equipe.
-* **Sinergia e colaboração** - Esse projeto me permitiu me aprofundar no papel de desenvolvedor, entrando em sinergia com a equipe e com os objetivos do projeto, garantindo entregas de qualidade dentro dos prazos estabelecidos.
+* **Trabalho em equipe e liderança** - Com um projeto mais complexo, tive a oportunidade de desenvolver ainda mais minhas habilidades de trabalho em equipe. Devido a algumas desistências, a equipe acabou desestruturada e um pouco perdida, o que colocava em risco a entrega das funcionalidades prometidas. Percebendo essa situação, tomei a iniciativa de organizar e redistribuir as demandas, priorizando as tarefas mais importantes para que conseguíssemos aproveitar melhor o tempo disponível. Com isso, conseguimos retomar o ritmo e entregar o MVP ao final das sprints. Essa experiência me fez entender melhor o impacto das minhas atitudes no andamento do projeto e como posso me posicionar de forma mais ativa e colaborativa dentro do time.
 
 ![Menu tela parceiro (1)](https://github.com/user-attachments/assets/254b8f67-4dad-4416-91e2-9b0d5b2e9ad4)
 
 ## Quarto Semestre (2024-1) - Oracle
-No quarto semestre, o projeto foi desenvolvido para atender à necessidade de um **software web** que permitisse o acompanhamento de métricas sobre parceiros, expertises e certificações. A solução foi uma plataforma web que oferecia **dashboards dinâmicos** para a visualização dessas métricas, além da possibilidade de **extração de relatórios detalhados**.
+O projeto desenvolvido no quarto semestre teve como objetivo atender a uma demanda da empresa parceira Oracle, que buscava uma plataforma web para o acompanhamento e a gestão de métricas relacionadas a seus parceiros, incluindo certificações, expertises e trilhas de conhecimento. Como esses dados envolvem prazos, validades e níveis de progressão, era essencial que a solução permitisse uma gestão eficiente, automatizada e visualmente acessível dessas informações.
+
+A Oracle precisava de uma ferramenta que facilitasse o monitoramento da evolução dos parceiros em suas trilhas de capacitação, o controle de certificações com prazos definidos, o recebimento de alertas automáticos sobre vencimentos, além de contar com dashboards dinâmicos, extração de relatórios personalizados e um sistema de controle de acesso por tipo de usuário.
+
+Como resposta, minha equipe desenvolveu uma aplicação web completa, que atendeu integralmente às necessidades apresentadas. A plataforma permite o cadastro e acompanhamento detalhado de parceiros, oferece visualizações analíticas por meio de dashboards interativos, gera relatórios exportáveis e envia notificações automáticas sobre eventos críticos, contribuindo diretamente para a gestão estratégica dos parceiros da Oracle.
 
 **[GitHub](https://github.com/projetoKhali/api4)**
 
