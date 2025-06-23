@@ -289,6 +289,8 @@ Entre os recursos implementados, destacam-se: extração de relatórios personal
 
 Essas funcionalidades foram distribuídas em cinco módulos distintos:
 
+[Repositório do Projeto](https://github.com/projetoKhali/api6)
+
 * Um módulo de autenticação e gestão de usuários;
 * Um módulo de machine learning;
 * Um módulo de notificações;
