@@ -25,7 +25,7 @@ Atualmente trabalho como desenvolvedor Full Stack na empresa Selaz, uma indústr
 
 ## Primeiro Semestre (2022-2)  
 
-O projeto desenvolvido no primeiro semestre teve como foco atender a uma demanda real da empresa parceira PBLTeX, especializada em cursos e metodologias de ensino baseadas na abordagem PBL (Problem-Based Learning). A empresa identificou a necessidade de uma solução tecnológica que facilitasse a aplicação da Avaliação 360°, além de permitir uma análise eficiente e detalhada dos dados gerados a partir dessas avaliações.
+O projeto desenvolvido no primeiro semestre teve como foco atender a uma demanda da empresa parceira PBLTeX, especializada em cursos e metodologias de ensino baseadas na abordagem PBL (Problem-Based Learning). A empresa identificou a necessidade de uma solução tecnológica que facilitasse a aplicação da Avaliação 360°, além de permitir uma análise eficiente e detalhada dos dados gerados a partir dessas avaliações.
 
 O principal desafio consistia em criar uma ferramenta que possibilitasse a aplicação estruturada da técnica de Avaliação 360° em ambientes educacionais, permitindo que tanto alunos quanto instrutores pudessem avaliar de forma cruzada o desempenho dentro das equipes. Além disso, era essencial que a plataforma oferecesse recursos analíticos para interpretação dos dados, geração de relatórios e extração de insights relevantes.
 
@@ -129,7 +129,7 @@ Diferentemente da versão anterior, a nova solução foi desenvolvida como um so
 
 Essa reestruturação ampliou o alcance e a usabilidade da ferramenta, fortalecendo o papel do sistema no apoio à tomada de decisões e na gestão eficiente do tempo de trabalho dentro da organização.
 
-**[GitHub](https://github.com/projetoKhali/api3)**
+**[Repositório do Projeto](https://github.com/projetoKhali/api3)**
 
 #### Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto:
@@ -185,7 +185,7 @@ A Oracle precisava de uma ferramenta que facilitasse o monitoramento da evoluç�
 
 Como resposta, minha equipe desenvolveu uma aplicação web completa, que atendeu integralmente às necessidades apresentadas. A plataforma permite o cadastro e acompanhamento detalhado de parceiros, oferece visualizações analíticas por meio de dashboards interativos, gera relatórios exportáveis e envia notificações automáticas sobre eventos críticos, contribuindo diretamente para a gestão estratégica dos parceiros da Oracle.
 
-**[GitHub](https://github.com/projetoKhali/api4)**
+**[Repositório do Projeto](https://github.com/projetoKhali/api4)**
 
 #### Tecnologias Utilizadas
 As seguintes tecnologias foram utilizadas nesse projeto:
@@ -228,7 +228,7 @@ Exercitei as seguintes hard skills durante este projeto:
 - **Liderança, Planejamento e Comunicação Estratégica** – Atuei garantindo o alinhamento da equipe com os requisitos do projeto, promovendo uma comunicação constante e assertiva. Ao mesmo tempo, negociei com o cliente ajustes no escopo para tornar as entregas mais realistas, equilibrando a geração de valor com a capacidade real da equipe. Isso permitiu manter a qualidade das entregas dentro do prazo, sem sobrecarga dos membros do time.
 
 
-![Frame 6](https://github.com/user-attachments/assets/dfc7a2e6-6300-4a66-98f3-b9d6ba21b919)
+![Desktop - 4](https://github.com/user-attachments/assets/d4d6ed4b-bc6f-4e92-92e7-6f89d973376b)
 
 ## Quinto Semestre (2024-2) - PRO4TECH
 
@@ -275,7 +275,8 @@ Durante o desenvolvimento, aperfeiçoei as seguintes competências técnicas:
 #### Soft Skills  
 - **Organização e Planejamento Estratégico**: Diante da alta demanda acadêmica, foi essencial manter uma organização rigorosa para que o projeto não comprometesse meu tempo livre e lazer. Busquei transformar processos complexos em tarefas bem definidas, estabelecer uma ordem cronológica clara, definir prazos realistas e otimizar ao máximo o uso do meu tempo.
 
-![Tela Login (1)](https://github.com/user-attachments/assets/85956040-6fa5-4b2f-a17e-2c613d7200e0)
+![Tela Login (2)](https://github.com/user-attachments/assets/279c430e-a3ff-41a5-9f56-dca1fe94dc3e)
+
 
 ## Sexto Semestre (2024-2) - Kersys
 
